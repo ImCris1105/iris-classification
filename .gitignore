@@ -1,0 +1,24 @@
+# created by virtualenv automatically
+*
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+dist/
+build/
+
+# Virtual Environment
+.venv/
+venv/
+
+# IDE
+.idea/
+.vscode/
+
+# Dataset
+*.csv
+*.data
+
+# Logs and temp files
+*.log
+*.tmp
